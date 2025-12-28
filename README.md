@@ -42,10 +42,13 @@
 ### 📈 GitHub İstatistiklerim
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=beyzaatascii&show_icons=true&theme=catppuccin_latte" width="400" alt="İstatistikler" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzaatascii&layout=compact&theme=catppuccin_latte" width="300" alt="Diller" />
+  <img src="https://github-readme-stats.vercel.app/api?username=beyzaatascii&show_icons=true&theme=catppuccin_latte" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzaatascii&layout=compact&theme=catppuccin_latte" width="300" alt="Top Languages" />
 </p>
 
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beyzaatascii&theme=catppuccin_latte" alt="GitHub Streak" />
+</p>
 ---
 
 ### 📫 Benimle İletişime Geçin
