@@ -35,20 +35,14 @@
 * **[Eve Shop Clone (Full-Stack)](https://github.com/beyzaatascii/my-web-project):** Nuxt 3 ve Firebase altyapısı ile geliştirilmiş, gerçek zamanlı veri senkronizasyonu sunan e-ticaret uygulaması.
 * **[Otel Rezervasyon Sistemi (Advanced SQL)](https://github.com/beyzaatascii/Otel_Rezervasyon_Sistemi):** Trigger, Procedure ve View yapılarıyla veritabanı seviyesinde otomasyon sağlayan ilişkisel model.
 * **[Öğrenci & Etkinlik Otomasyonu (Python)](https://github.com/beyzaatascii/dormitoryInformationSystem):** Stack ve Queue veri yapıları kullanılarak geliştirilmiş yurt ve bilet yönetim sistemi.
-* **[Web Programlama Arşivi](https://github.com/beyzaatascii/web-programlama_icerik):** HTML5 ve CSS3 temellerinden responsive tasarıma kadar uzanan eğitim dökümanları.
+* **[Web Programlama Arşivi](https://github.com/beyzaatascii/web_programlama_icerik):** HTML5 ve CSS3 temellerinden responsive tasarıma kadar uzanan eğitim dökümanları.
 
 ---
 
 ### 📈 GitHub İstatistiklerim
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=beyzaatascii&show_icons=true&theme=catppuccin_latte" width="400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzaatascii&layout=compact&theme=catppuccin_latte" width="300" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beyzaatascii&theme=catppuccin_latte" alt="GitHub Streak" />
-</p>
+![GitHub Stats](https://ghstats.vercel.app/api?username=beyzaatascii)
+![Top Langs](https://ghstats.vercel.app/api/top-langs/?username=beyzaatascii)
 ---
 
 ### 📫 Benimle İletişime Geçin
