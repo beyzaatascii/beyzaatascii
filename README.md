@@ -6,11 +6,11 @@
 </p>
 
 ### 💻 Hakkımda
-Ben bir **Bilgisayar Mühendisliği** son sınıf öğrencisiyim. Modern web mimarileri, bulut bilişim ve ölçeklenebilir backend sistemleri üzerine projeler geliştiriyorum. Veri yapılarını optimize etmekten ve Docker konteynerleri ile izlenebilir sistemler kurmaktan keyif alıyorum.
+**Bilgisayar Mühendisliği** son sınıf öğrencisiyim. Modern web mimarileri, bulut bilişim ve ölçeklenebilir backend sistemleri üzerine projeler geliştiriyorum. Veri yapılarını optimize etmekten ve Docker konteynerleri ile izlenebilir sistemler kurmaktan keyif alıyorum.
 
 ---
 
-### 🛠️ Teknik Yetkinlikler (Pastel Theme)
+### 🛠️ Teknik Yetkinlikler 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-ffb7c5?style=for-the-badge&logo=python&logoColor=white" />
@@ -52,7 +52,7 @@ Ben bir **Bilgisayar Mühendisliği** son sınıf öğrencisiyim. Modern web mim
 
 <p align="left">
   <a href="https://linkedin.com/in/beyzatasci" target="blank"><img src="https://img.shields.io/badge/LinkedIn-b8c0ff?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:email@adresiniz.com" target="blank"><img src="https://img.shields.io/badge/Gmail-ffb7c5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:beyzatasci122@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-ffb7c5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/beyzaatascii" target="blank"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
