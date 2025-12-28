@@ -32,10 +32,10 @@
 ### 🚀 Öne Çıkan Projelerim
 
 * **[Mikroservis Tabanlı E-Ticaret API](https://github.com/beyzaatascii/mini-ecommerce-api):** AWS EC2 üzerinde koşan, Docker ile orkestre edilmiş; Redis, Prometheus ve Grafana entegrasyonlu backend sistemi.
-* **[Eve Shop Clone (Full-Stack)](https://github.com/beyzaatascii/evesshop-clone):** Nuxt 3 ve Firebase altyapısı ile geliştirilmiş, gerçek zamanlı veri senkronizasyonu sunan e-ticaret uygulaması.
-* **[Otel Rezervasyon Sistemi (Advanced SQL)](https://github.com/beyzaatascii/otel-rezervasyon-sql):** Trigger, Procedure ve View yapılarıyla veritabanı seviyesinde otomasyon sağlayan ilişkisel model.
-* **[Öğrenci & Etkinlik Otomasyonu (Python)](https://github.com/beyzaatascii/student-management-system):** Stack ve Queue veri yapıları kullanılarak geliştirilmiş yurt ve bilet yönetim sistemi.
-* **[Web Programlama Arşivi](https://github.com/beyzaatascii/web-programlama):** HTML5 ve CSS3 temellerinden responsive tasarıma kadar uzanan eğitim dökümanları.
+* **[Eve Shop Clone (Full-Stack)](https://github.com/beyzaatascii/my-web-project):** Nuxt 3 ve Firebase altyapısı ile geliştirilmiş, gerçek zamanlı veri senkronizasyonu sunan e-ticaret uygulaması.
+* **[Otel Rezervasyon Sistemi (Advanced SQL)](https://github.com/beyzaatascii/Otel_Rezervasyon_Sistemi):** Trigger, Procedure ve View yapılarıyla veritabanı seviyesinde otomasyon sağlayan ilişkisel model.
+* **[Öğrenci & Etkinlik Otomasyonu (Python)](https://github.com/beyzaatascii/dormitoryInformationSystem):** Stack ve Queue veri yapıları kullanılarak geliştirilmiş yurt ve bilet yönetim sistemi.
+* **[Web Programlama Arşivi](https://github.com/beyzaatascii/web-programlama_icerik):** HTML5 ve CSS3 temellerinden responsive tasarıma kadar uzanan eğitim dökümanları.
 
 ---
 
